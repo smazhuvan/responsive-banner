@@ -22,3 +22,12 @@ To get a local copy up and running, follow these simple steps:
 - A basic text editor like [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/).
 - A browser to view the output (Chrome, Firefox, Edge, etc.).
 - Use Live Server extension in VSCode to vie it locally
+  
+### Key Points
+
+-	The ::after pseudo-element is used to create an overlay effect on the banner.
+-	Media queries are applied to make the banner responsive for mobile and tablet devices.
+
+### Contributing
+
+Contributions are welcome! If you would like to suggest improvements or add features, feel free to open an issue or submit a pull request.
