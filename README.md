@@ -21,7 +21,7 @@ To get a local copy up and running, follow these simple steps:
 
 - A basic text editor like [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/).
 - A browser to view the output (Chrome, Firefox, Edge, etc.).
-- Use Live Server extension in VSCode to vie it locally
+- Use Live Server extension in VSCode to view it locally.
   
 ### Key Points
 
